@@ -1,0 +1,55 @@
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.exe
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.deps.json
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.runtimeconfig.json
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.Form1.resources
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.GenerateResource.cache
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfo.cs
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\refint\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.genruntimeconfig.cache
+E:\Step\Homework\NP\NP_HW_2\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ref\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.exe
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.deps.json
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.runtimeconfig.json
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.Form1.resources
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.GenerateResource.cache
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfo.cs
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\refint\ClientTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.genruntimeconfig.cache
+E:\Step\Homework\NP\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ref\ClientTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.exe
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.deps.json
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.runtimeconfig.json
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.Authcs.resources
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.Form1.resources
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.GenerateResource.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.AssemblyInfo.cs
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\refint\ClientTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.genruntimeconfig.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ref\ClientTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\DbDataModels.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\DbDataModels.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\bin\Debug\net6.0-windows\ClassLibraryBase.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.AssemblyReference.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClientTCP\obj\Debug\net6.0-windows\ClientTCP.csproj.CopyComplete

@@ -1,0 +1,15 @@
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\bin\Debug\net6.0\ClassLibraryBase.deps.json
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\bin\Debug\net6.0\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\bin\Debug\net6.0\ClassLibraryBase.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.AssemblyInfoInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.AssemblyInfo.cs
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.csproj.CoreCompileInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\refint\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ref\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\bin\Debug\net6.0\DbDataModels.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\bin\Debug\net6.0\DbDataModels.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.csproj.AssemblyReference.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ClientTCP\ClassLibraryBase\obj\Debug\net6.0\ClassLibraryBase.csproj.CopyComplete

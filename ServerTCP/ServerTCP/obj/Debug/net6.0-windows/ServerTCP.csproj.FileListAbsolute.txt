@@ -1,0 +1,93 @@
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.exe
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.deps.json
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.runtimeconfig.json
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.Form1.resources
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.GenerateResource.cache
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfo.cs
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\refint\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.genruntimeconfig.cache
+E:\Step\Homework\NP\NP_HW_2\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ref\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.Form1.resources
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.GenerateResource.cache
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfo.cs
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\refint\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.exe
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.deps.json
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.runtimeconfig.json
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.genruntimeconfig.cache
+E:\Step\Homework\NP\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ref\ServerTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.exe
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.deps.json
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.runtimeconfig.json
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.Form1.resources
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.GenerateResource.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfoInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfo.cs
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.CoreCompileInputs.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\refint\ServerTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.genruntimeconfig.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ref\ServerTCP.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ClassLibraryBase.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\DbDataModels.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ClassLibraryBase.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\DbDataModels.pdb
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.AssemblyReference.cache
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.CopyComplete
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Step\Homework\курсовой NET\NP_HW_4\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\appsettings.json
